@@ -11,4 +11,5 @@ The project implements the following topics learnt during the training program:
 8.	ReportNG
 9.	Screenshots using Ashot
 
+Below is the Project File:
 [SeleniumProject-Tushti Kapoor.zip](https://github.com/tushtikapoor/Selenium-Project-Simplilearn/files/7317307/SeleniumProject-Tushti.Kapoor.zip)
